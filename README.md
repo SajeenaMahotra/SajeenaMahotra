@@ -13,4 +13,7 @@ I’m **Sajeena**, a student passionate about **Data Science** and **Full-Stack 
 I love exploring new technologies and turning ideas into reality 🚀
 
 ### 📫 Let’s Connect
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/sajeena-mahotra/)
+<a href="https://www.linkedin.com/in/sajeena-mahotra/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="10"/>
+</a>
+
