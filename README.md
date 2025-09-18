@@ -6,12 +6,11 @@ I’m **Sajeena**, a student passionate about **Data Science** and **Full-Stack 
 ### 🛠️ Languages & Tools
 - 🐍 Python | 💾 SQL | 📊 R  
 - 🌐 HTML | 🎨 CSS | ⚡ JavaScript  
-- ⚛️ MERN Stack (MongoDB, Express, React, Node.js)  
-- 🐘 PERN Stack (PostgreSQL, Express, React, Node.js)  
+- ⚛️ MERN Stack (MongoDB, Express, React, Node.js) 
 - ☕ Java | 📱 Kotlin
 
 
 I love exploring new technologies and turning ideas into reality 🚀
 
 ### 📫 Let’s Connect
-[![LinkedIn](https://www.linkedin.com/in/sajeena-mahotra/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sajeena-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajeena-mahotra/)
