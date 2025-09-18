@@ -16,7 +16,7 @@ I’m **Sajeena**, a student passionate about **Data Science** and **Full-Stack 
 ---
 
 ### 🌟 Fun Fact
-I speak fluent **Python**, but humans still confuse me. 😅
+I have more tabs open than a web browser can handle… and half of them are Stack Overflow answers I’ll never read.🌐😅
 
 ---
 
