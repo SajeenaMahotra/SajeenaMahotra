@@ -14,6 +14,6 @@ I love exploring new technologies and turning ideas into reality 🚀
 
 ### 📫 Let’s Connect
 <a href="https://www.linkedin.com/in/sajeena-mahotra/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="10"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30"/>
 </a>
 
