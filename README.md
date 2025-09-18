@@ -13,4 +13,4 @@ I’m **Sajeena**, a student passionate about **Data Science** and **Full-Stack 
 I love exploring new technologies and turning ideas into reality 🚀
 
 ### 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sajeena-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajeena-mahotra/)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/sajeena-mahotra/)
