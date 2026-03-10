@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m **Sajeena**, a student passionate about **Data Science** and **Full-Stack Development**.  
+I’m **Sajeena**, a student passionate about building real-world solutions through technology.
 🌱 Always learning, building projects, and improving my skills.
 
 ---
